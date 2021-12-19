@@ -46,7 +46,7 @@ public class Test {
 			
 			
 		
-			System.out.println("구매번호 :" + Arrays.toString(lottoNum));
+			System.out.println("구매번호 :" + Arrays.toString(lottoNum)); //Arrays.toString :: 값 표현을 [ 배열[1], 배열[2].....이런식으로 한다.
 
 		}
 	}
